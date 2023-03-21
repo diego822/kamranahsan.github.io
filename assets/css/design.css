@@ -11396,8 +11396,8 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/bg-1.jpg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/bg-1.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYcR7bVT2nVV6JIDZcGTun0R9Bjq4C30IwjeVWHvLzyB-OGgKPTc2LUoghRJXyKQYBt5zPBGguNeX2diYsQ0JxM0RPm30hAk5hWVby6CcFZYEJVArzvbPWTyeLOBr2-X85TeRDvVItPZYnoez6NPOLmmRU-dYbnzmPhefrJ8kx-0040d_hxfDbTo7BfA/s1064/bg-1.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYcR7bVT2nVV6JIDZcGTun0R9Bjq4C30IwjeVWHvLzyB-OGgKPTc2LUoghRJXyKQYBt5zPBGguNeX2diYsQ0JxM0RPm30hAk5hWVby6CcFZYEJVArzvbPWTyeLOBr2-X85TeRDvVItPZYnoez6NPOLmmRU-dYbnzmPhefrJ8kx-0040d_hxfDbTo7BfA/s1064/bg-1.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
